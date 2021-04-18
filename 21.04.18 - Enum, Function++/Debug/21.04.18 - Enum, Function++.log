@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\pl_4d_003\desktop\21.04.18 - enum, function++\21.04.18 - enum, function++\21.04.18 - enum, function++\main.cpp(64): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\pl_4d_003\desktop\21.04.18 - enum, function++\21.04.18 - enum, function++\21.04.18 - enum, function++\main.cpp(90): warning C4551: 함수 호출에 인수 목록이 없습니다.
+  21.04.18 - Enum, Function++.vcxproj -> C:\Users\PL_4D_003\Desktop\21.04.18 - Enum, Function++\21.04.18 - Enum, Function++\Debug\21.04.18 - Enum, Function++.exe
